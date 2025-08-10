@@ -1,0 +1,10 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore temporary deployment files
+deploy.sh
+rename_files.py
+Dockerfile
+
+# Ignore temporary output files
+temp/
